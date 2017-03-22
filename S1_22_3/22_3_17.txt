@@ -1,0 +1,19 @@
+methods with overloading
+methods with overridding
+methods with return value(primitives)
+methods with no return value
+static methods
+final methods
+abstract methods 
+methods with pass by value 
+methods with pass by reference
+
+------------------------------------------------
+
+Static class
+class with static variables & methods 
+
+---------------------------------------------
+
+
+ 
