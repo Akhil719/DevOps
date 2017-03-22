@@ -18,10 +18,13 @@ class ConstructorWithParams {
 	}
 
 	public static void main(String args[]) {
-		ConstructorWithParams s1 = new ConstructorWithParams(111, "Karan1");
+		ConstructorWithParams s1 = new ConstructorWithParams(111, "Karan");
 		ConstructorWithParams s2 = new ConstructorWithParams(222, "Aryan");
 		ConstructorWithParams s3= new ConstructorWithParams();
 		s1.display();
 		s2.display();
+		s3.display();
+	
+	
 	}
 }
