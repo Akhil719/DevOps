@@ -1,0 +1,17 @@
+animal -> mammal
+
+mammal -> dog
+
+Animal ( vehicle )
+ !
+mammal (m ) 2 wheeler
+ ! 
+dog (d) 4 wheeler
+
+a extends c
+
+e implements f 
+
+here c & f are considered as super class /parent
+
+a, e are child class
