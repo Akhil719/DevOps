@@ -1,0 +1,44 @@
+1. Core Java - OOPs concepts, Control statements, Exceptions, Generics, Threads, Collections, File IO(input/output), Network programming, JDBC ( Java DataBase connectivity)
+
+2. Advanced Java - JSP (Java Server pages) for designing web applications, Servlets for Server-side programming, JDBC  with SQL / PL-SQL, Junit for Testing, Security, Filters, XML, JavaScript
+
+3. Frameworks - Spring, Hibernate, AngularJS
+
+4. SDLC (Software Development LifeCycle) methodologies - Waterfall & Agile
+
+5. Deployments for Web and Cloud environments.
+
+6. DevOps project - ECommerce application for MusicHub. This is the platform for online trading. Worked on development of login, supplier, sales, products, cart, checkout, orders and Inventory modules.
+
+---------------------------------------------------------------------------------------------------------------------
+WorkPlan
+
+
+
+SDLC Development - Water Fall & Agile.
+Core Java - OOPS, Exceptions, Generics, Threads, Collections, File IO, JDBC
+Advanced Java - JSP (Java Server Pages), Servlets, JDBC, Hibernate, Web Services
+UI Stack - HTML/CSS/JS(java script)/HTML5/bootstrap/AJAX/AngularJS
+Testing - Junit
+Frameworks - Spring & Hibernate
+DevOps - Google App engine, AWS concepts (theory)
+Deployments - Apache Tomcat / Google App engine
+
+2. Project - ECommerce Application.
+
+Dev Tasks 
+One should work on developing ECommerce application for online trading. Modules required to develop are
+- Login
+- Supplier
+- Category
+- Product
+- Cart
+- Checkout
+- Orders
+- Inventory
+
+Technical walk through - one should develop UI using JSP with bootstrap components, Controllers for business logic and Hibernate for Data access objects connecting to database.
+
+QA Tasks- Prepare test plan and employ Junit for testing
+
+Operations - Pick up code from GitHub code repository, Continuous builds, Deployment, Documentation to Wiki.
