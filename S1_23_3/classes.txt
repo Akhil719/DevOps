@@ -6,4 +6,5 @@ final class
 anonymous class
  Wrapper class
 singleton class
+immutable class
 
