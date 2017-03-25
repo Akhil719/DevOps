@@ -1,0 +1,15 @@
+S1_25_3_17
+
+pending  ----------------------------------------------------
+java ex with throws
+java ex with throw
+java custom exception example
+---------------------------------------------
+
+* // Uml Daigrams Theory // *
+
+---------------------------------------------
+
+Ecillpse Debuging.
+
+
