@@ -1,0 +1,24 @@
+M- V- C
+=================================================
+Models are for data logic:			 
+			sql/pl-sql lives with database ->jdbc or Hibernate
+===========================================================
+views are for presentation (ui) logic:
+
+			basic ui - Html generates static content
+			Dynamic - CSS (cascading style sheets), JavaScript 
+			Html5
+			Ajax (asynchronous javascript api for xml) & 
+				DOM (document object model) 
+			JQuery	
+			bootstrap (readymade UI components) 
+			AngularJS - Javascript enabled mvc framework (SPA) ex: twitter & facebook
+=========================================================
+
+				
+controllers are for business logic:
+
+	Servlets
+	Services
+	DAO (data access objects)
+===========================================================
