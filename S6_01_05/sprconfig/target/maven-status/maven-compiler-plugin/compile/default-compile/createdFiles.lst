@@ -1,0 +1,3 @@
+com\mycompany\config\HelloWorldInit.class
+com\mycompany\controller\HelloWorldController.class
+com\mycompany\config\HelloWorldConfig.class
